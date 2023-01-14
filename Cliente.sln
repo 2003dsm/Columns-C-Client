@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente.csproj", "{4C761D9B-C84C-4FA6-BBB2-8B732AF6A122}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{FD1AB626-00F4-4549-BC13-4796DDF7E1EC}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+		Player.cs = Player.cs
+		Sala.cs = Sala.cs
+		Socket.cs = Socket.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C761D9B-C84C-4FA6-BBB2-8B732AF6A122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C761D9B-C84C-4FA6-BBB2-8B732AF6A122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C761D9B-C84C-4FA6-BBB2-8B732AF6A122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C761D9B-C84C-4FA6-BBB2-8B732AF6A122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD23403-B950-4EBA-9033-92DCB5AD9D8A}
+	EndGlobalSection
+EndGlobal
